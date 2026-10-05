@@ -21,8 +21,3 @@ Descarga el repositorio con Code > Download ZIP y extrae su contenido.
 - MovimientoCubo.cs controla el movimiento con CharacterController y el seguimiento de la camara.
 
 La escena es sencilla a proposito: permite practicar terrenos, cubos, materiales, iluminacion y movimiento sin assets externos.
-
-## Entrega
-El proyecto incluye Assets (con archivos .meta), Packages, ProjectSettings, Documentacion, README.md y .gitignore. Unity regenera Library y otras carpetas temporales al abrirlo.
-
-Para completar la entrega, graba un video de 3 a 5 minutos siguiendo Documentacion/GuionVideo.md y publica su enlace junto con el de este repositorio.

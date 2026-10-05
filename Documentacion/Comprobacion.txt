@@ -1,2 +1,0 @@
-Verificacion final: 10 edificios de colores sin detalles; 0 lamparas; calles con material negro.
-Escena guardada y revisada visualmente en Unity.
